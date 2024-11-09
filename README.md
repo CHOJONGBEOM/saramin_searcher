@@ -1,8 +1,5 @@
 
-
-
-
-
+![사람인 스크래퍼 사용예시](https://github.com/user-attachments/assets/8ba67f8b-3015-4e70-b1e5-d170f670634b)
 
 
 # 사람인 스크래퍼
